@@ -1,6 +1,6 @@
 ## Algoritmos grafos
 En este repo podrán encontrar implementaciones de algoritmos importantes para grafos en C++ junto con sus análisis de complejidad. 
-Se incluyen algoritmos de recorridos en grafos y algoritmos para encontrar el árbol generador mínimo(AGM) de un grafo.
+Se incluyen algoritmos de recorridos en grafos, para encontrar el árbol generador mínimo(AGM).
 
 ### Algoritmos implementados:
 - BFS: Breadth-First search.
@@ -14,7 +14,5 @@ Se incluyen algoritmos de recorridos en grafos y algoritmos para encontrar el á
   Utiliza Union-Find.
   
   Complejidad O(E log E)
-- Prim: Algoritmo para árbol generador mínimo
-  
-  Complejidad O(E log V)
+
 
